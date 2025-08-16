@@ -1,2 +1,2 @@
 # client.py
-api_key = "APGuFVWND3rLBYeiIpQeGKBBTvqU3BloA78EJkWp"
+api_key = "YOUR_API_KEY_HERE"
